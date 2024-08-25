@@ -1,5 +1,3 @@
-#FINAL IGCSE MAY-JUNE 2022 PRE-RELEASE CODE PAPER 21
-
 import datetime
 date_founded=datetime.datetime(2022, 1, 1).date()
 First_name=["John","Marten","Jesse","Brian","Sarah-Jane","Stacey","Randall","Wandia","Klein","Eugene"]
